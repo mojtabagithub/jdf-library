@@ -1,0 +1,28 @@
+{
+    "name":         "rayvarzshiraz/jdf",
+    "description":  "A module for jdf persian calender library",
+    "keywords": [
+            "csprng",
+            "random",
+            "pseudorandom"
+        ],
+    "type":         "library",
+    "authors": [
+            {
+                "name":     "Mojtaba Dehdari",
+                "email":    "mojtabadehdari@gmail.com",
+                "homepage": "http://jdf.scr.ir/"
+            }
+        ],
+    "support": {
+        "issues":   "https://github.com/paragonie/random_compat/issues",
+        "email":    "info@paragonie.com",
+        "source":   "https://github.com/paragonie/random_compat"
+    },
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "files": ["lib/autoload.php"]
+    }
+}
