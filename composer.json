@@ -1,5 +1,6 @@
 {
     "name":         "rayvarzshiraz/jdf",
+	"minimum-stability": "dev",
     "description":  "A module for jdf persian calender library",
     "keywords": [
             "jdf",
