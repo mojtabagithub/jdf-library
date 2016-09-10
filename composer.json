@@ -20,6 +20,7 @@
         "email":    "mojtabadehdari@gmail.com"
 	},
     "require": {
+		"rayvarzshiraz/jdf": "dev-master"
     },
     "autoload": {
         "files": ["lib/autoload.php"]
