@@ -2,9 +2,10 @@
     "name":         "rayvarzshiraz/jdf",
     "description":  "A module for jdf persian calender library",
     "keywords": [
-            "csprng",
-            "random",
-            "pseudorandom"
+            "jdf",
+            "persian",
+            "calender",
+			"symfony"
         ],
     "type":         "library",
     "authors": [
@@ -15,12 +16,9 @@
             }
         ],
     "support": {
-        "issues":   "https://github.com/paragonie/random_compat/issues",
-        "email":    "info@paragonie.com",
-        "source":   "https://github.com/paragonie/random_compat"
-    },
+        "email":    "mojtabadehdari@gmail.com"
+	},
     "require": {
-        "php": ">=5.2.0"
     },
     "autoload": {
         "files": ["lib/autoload.php"]
