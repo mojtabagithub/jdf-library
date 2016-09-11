@@ -1,6 +1,5 @@
 {
-    "name":         "rayvarzshiraz/jdf",
-	"minimum-stability": "stable",
+    "name": "rayvarzshiraz/jdf",
     "description":  "A module for jdf persian calender library",
     "keywords": [
             "jdf",
@@ -21,6 +20,7 @@
 	},
     "require": {
     },
+	"version": "1.0.0",
     "autoload": {
         "files": ["lib/autoload.php"]
     }
